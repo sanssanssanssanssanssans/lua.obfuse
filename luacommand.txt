@@ -1,0 +1,3 @@
+-- 시발 이걸 왜 까먹음 앤드류 똘빡새끼야
+lua tests/main.o.lua
+lua tests/moduletest.o.lua

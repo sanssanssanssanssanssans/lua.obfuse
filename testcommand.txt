@@ -1,0 +1,2 @@
+python src/main.py
+python main.py --entry=tests/moduletest.lua --output=tests/moduletest.o.lua
